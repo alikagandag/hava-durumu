@@ -1,0 +1,17 @@
+C:\Users\dagal\source\repos\Havadurumuprojesi alikağan\Havadurumuprojesi alikağan\bin\Debug\net8.0\Havadurumuprojesi alikağan.exe
+C:\Users\dagal\source\repos\Havadurumuprojesi alikağan\Havadurumuprojesi alikağan\bin\Debug\net8.0\Havadurumuprojesi alikağan.deps.json
+C:\Users\dagal\source\repos\Havadurumuprojesi alikağan\Havadurumuprojesi alikağan\bin\Debug\net8.0\Havadurumuprojesi alikağan.runtimeconfig.json
+C:\Users\dagal\source\repos\Havadurumuprojesi alikağan\Havadurumuprojesi alikağan\bin\Debug\net8.0\Havadurumuprojesi alikağan.dll
+C:\Users\dagal\source\repos\Havadurumuprojesi alikağan\Havadurumuprojesi alikağan\bin\Debug\net8.0\Havadurumuprojesi alikağan.pdb
+C:\Users\dagal\source\repos\Havadurumuprojesi alikağan\Havadurumuprojesi alikağan\obj\Debug\net8.0\Havadurumuprojesi alikağan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dagal\source\repos\Havadurumuprojesi alikağan\Havadurumuprojesi alikağan\obj\Debug\net8.0\Havadurumuprojesi alikağan.AssemblyInfoInputs.cache
+C:\Users\dagal\source\repos\Havadurumuprojesi alikağan\Havadurumuprojesi alikağan\obj\Debug\net8.0\Havadurumuprojesi alikağan.AssemblyInfo.cs
+C:\Users\dagal\source\repos\Havadurumuprojesi alikağan\Havadurumuprojesi alikağan\obj\Debug\net8.0\Havadurumuprojesi alikağan.csproj.CoreCompileInputs.cache
+C:\Users\dagal\source\repos\Havadurumuprojesi alikağan\Havadurumuprojesi alikağan\obj\Debug\net8.0\Havadurumuprojesi alikağan.dll
+C:\Users\dagal\source\repos\Havadurumuprojesi alikağan\Havadurumuprojesi alikağan\obj\Debug\net8.0\refint\Havadurumuprojesi alikağan.dll
+C:\Users\dagal\source\repos\Havadurumuprojesi alikağan\Havadurumuprojesi alikağan\obj\Debug\net8.0\Havadurumuprojesi alikağan.pdb
+C:\Users\dagal\source\repos\Havadurumuprojesi alikağan\Havadurumuprojesi alikağan\obj\Debug\net8.0\Havadurumuprojesi alikağan.genruntimeconfig.cache
+C:\Users\dagal\source\repos\Havadurumuprojesi alikağan\Havadurumuprojesi alikağan\obj\Debug\net8.0\ref\Havadurumuprojesi alikağan.dll
+C:\Users\dagal\source\repos\Havadurumuprojesi alikağan\Havadurumuprojesi alikağan\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\dagal\source\repos\Havadurumuprojesi alikağan\Havadurumuprojesi alikağan\obj\Debug\net8.0\Havadurumuprojesi alikağan.csproj.AssemblyReference.cache
+C:\Users\dagal\source\repos\Havadurumuprojesi alikağan\Havadurumuprojesi alikağan\obj\Debug\net8.0\Havadurumuprojesi alikağan.csproj.CopyComplete
